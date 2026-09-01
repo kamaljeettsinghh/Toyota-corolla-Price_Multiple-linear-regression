@@ -1,16 +1,24 @@
-# Performed a multiple linear regression analysis to predict the price of Toyota corolla based on the given attributes
+# Performed a multiple linear regression analysis to predict the price of Toyota corolla based on attributes
 
 ## Dataset Description:
 The dataset consists of the following variables:
+
 Age: Age in years
+
 KM: Accumulated Kilometers on odometer
+
 FuelType: Fuel Type (Petrol, Diesel, CNG)
+
 HP: Horse Power
+
 Automatic: Automatic ( (Yes=1, No=0)
+
 CC: Cylinder Volume in cubic centimeters
+
 Doors: Number of doors
+
 Weight: Weight in Kilograms
-Quarterly_Tax: 
+
 Price: Offer Price in EUROs
 
 ## Tasks:
